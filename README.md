@@ -17,7 +17,6 @@ A responsive web application that allows users to search and view GitHub profile
 * JavaScript
 * GitHub REST API
   ## 📂 Project Structure
-
  github-profile-finder 
     ├── index.html
     ├── style.css
