@@ -1,0 +1,46 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>GitHub Profile Finder</h1>
+    <button id="themeBtn"
+onclick="toggleTheme()">
+🌙 Dark Mode
+</button>
+
+    <div class="search-box">
+    
+        <input
+            type="text"
+            id="username"
+            placeholder="Enter GitHub Username"
+        >
+        <button id="searchBtn">
+            Search
+        </button>
+    </div>
+
+    <div id="profile"></div>
+
+    <div class="history-section">
+        <h2>Recent Searches</h2>
+        <ul id="history"></ul>
+        <button class="clear-btn" onclick="clearHistory()">
+            Clear History
+        </button>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
