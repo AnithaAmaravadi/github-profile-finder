@@ -18,11 +18,11 @@ A responsive web application that allows users to search and view GitHub profile
 * GitHub REST API
   ## 📂 Project Structure
 
-  * github-profile-finder 
-  * ├── index.html
-  * ├── style.css
-  * ├── script.js
-  * └── README.md
+ github-profile-finder 
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    └── README.md
 
-## Live Demo
+## Live View
 https://anithaamaravadi.github.io/github-profile-finder/
