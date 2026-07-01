@@ -1,6 +1,6 @@
 # GitHub Profile Finder
 
-A responsive web application that allows users to search and view GitHub profiles using the GitHub REST API.A modern and responsive GitHub Profile Finder built using HTML, CSS, and JavaScript. This application allows users to search for GitHub profiles, view key account information, switch between dark and light themes, and maintain a searchable history using Local Storage.
+A responsive web application that allows users to search and view GitHub profiles using the GitHub REST API.
 
 ## Features
 
